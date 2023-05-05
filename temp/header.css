@@ -1,0 +1,30 @@
+/* j-us페이지에서는 .dsgn-body 안의 div 안의 헤더에 이 설정을 줌 */
+header{
+    position: relative;
+    z-index: 20;
+}
+
+.navbar-fheader{
+    border-radius: 0;
+    margin-bottom: 0;
+    border-width: 0px;
+    border-color: transparent;
+}
+
+.menu-theone{
+    min-height: 80px;
+    background-color: black;
+}
+
+.navbar-fixed-top{
+    top: 0;
+    border-width: 0 0 1px;
+}
+
+.navbar-fixed-top, .navbar-fixed-bottom {
+    position: fixed;
+    right: 0;
+    left: 0;
+    z-index: 1030;
+}
+
