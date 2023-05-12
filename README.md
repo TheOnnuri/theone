@@ -1,6 +1,4 @@
-# theone
-
-Project THEONE
+# Project THEONE
 
 참고 사이트
 
